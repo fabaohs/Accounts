@@ -1,0 +1,19 @@
+{
+  "name": "accounts",
+  "version": "1.0.0",
+  "description": "Simula um banco",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "fabiohenriquesf8@gmail.com, https://github.com/fabaohs/, https://linkedin/in/fabiohti",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^8.2.0"
+  }
+}
